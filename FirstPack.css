@@ -1,0 +1,102 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f2f2f2;
+  }
+  
+  .image1 {
+    float: left;
+    width: 90px;
+		height: 90px;
+		margin: 0px;
+  }
+
+  .noti {
+    text-align: center;
+    color: purple;
+  }
+
+  .search {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .search input[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px 0 0 5px;
+    background-color: #fff;
+  }
+  
+  .search button[type="submit"] {
+    padding: 10px;
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  nav {
+    height: 90px;
+  }
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: cyan;
+    text-align: center;
+  }
+  
+  nav > ul > li {
+    display: inline-block;
+    position: relative;
+    width: 250px;
+    line-height: 20px;
+  }
+  
+  nav > ul > li > a {
+    display: block;
+    padding: 10px;
+    background-color: #0cb6cc;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav > ul > li > a:hover {
+    background: yellowgreen;
+    color: gray;
+  }
+
+  nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    padding: 0;
+    width: 250px;
+  }
+  
+  nav ul ul li {
+    display: block;
+  }
+  
+  nav ul ul li a {
+    display: block;
+    padding: 15px;
+    color: #05688f;
+    text-decoration: none;
+  }
+  
+  nav > ul > li:hover > ul {
+    display: block;
+  }
+  nav ul ul li a:hover {
+    color: purple;
+    background-color: cyan;
+  }
