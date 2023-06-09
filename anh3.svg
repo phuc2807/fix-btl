@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>iconfinder_Rounded-07_2024667</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements-/-Header-/-New-no-log-in" transform="translate(-1042.000000, -47.000000)">
+            <g id="top-header" transform="translate(0.000000, 35.000000)">
+                <g id="Contact" transform="translate(916.000000, 10.000000)">
+                    <g id="Group-8" transform="translate(126.000000, 0.000000)">
+                        <g id="iconfinder_Rounded-07_2024667" transform="translate(0.000000, 2.000000)">
+                            <path d="M0,8 C0,12.418278 3.581722,16 8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 Z" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                            <g id="Mail" transform="translate(4.000000, 5.000000)" stroke="#FFFFFF" stroke-width="0.571428571">
+                                <rect id="Rectangle" x="0" y="0" width="8" height="6.045" rx="0.37"></rect>
+                                <path d="M7.86,0.2075 L5.1325,3.135 C4.83672673,3.44479477 4.42706603,3.62006423 3.99875,3.62006423 C3.57043397,3.62006423 3.16077327,3.44479477 2.865,3.135 L0.14,0.21" id="Path" stroke-linejoin="round"></path>
+                                <line x1="5.5475" y1="2.6875" x2="7.7875" y2="5.8775" id="Path" stroke-linejoin="round"></line>
+                                <line x1="2.495" y1="2.72" x2="0.175" y2="5.8775" id="Path" stroke-linejoin="round"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
